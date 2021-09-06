@@ -1,0 +1,87 @@
+.button {
+	width: 205px;
+	height: 135px;
+    display: inline-block;
+    padding: 1em;
+}
+.button:hover{border-top: 3px outset orange;}
+
+.imgmenu{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.textm1{
+	border-right: grey 1px outset; 
+	border-right-style: solid; 
+	padding-right: 15px;
+	margin-left: 10px;
+	font-family: 'Raleway',sans-serif;
+}
+.textm2{
+	display: block; 
+	color: white; 
+	font-size: 18px; 
+	font-family: 'Khand',sans-serif;
+}
+.imgfoo{
+	width: 70px;
+	height: 60px;
+	margin:5px;
+}
+.division{
+	width: 50%;
+	height: 3px;
+	border-left: 0;
+	border-right: 0;
+	border-top:1px solid #747d8c;
+	border-bottom:1px solid #747d8c;
+	margin:8px; 
+}
+
+.textm3{
+	font-family: 'Montserrat', sans-serif;
+	width: 830px;
+	font-size: 14px;
+	text-align: justify;
+	padding-left: 510px;
+}
+
+.servFont{
+	font-family: 'Passion One', cursive;
+	margin-left: 70px;
+	border-bottom: orange solid 2px;
+	margin-right: 125px;
+}
+.Mtext1{
+	text-align: justify;  
+	font-family:  'Montserrat', sans-serif; 
+	font-size: 18px;
+}
+.form1{
+	font-family: 'Passion One', cursive;
+	width: 300px;
+	display: inline;
+	margin-bottom: 15px;
+	color: grey;
+}
+.form2{
+	font-family: 'Passion One', cursive;
+	height: 200px;
+	width: 600px;
+	display: inline;
+	margin-bottom: 15px;
+}
+.titleC{
+	font-family: 'Passion One', cursive;
+}
+
+.colorDest:hover{
+	color: orange;
+}
+
+.colorDest{
+	text-decoration: none; 
+	color: white;
+}
+
+
